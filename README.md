@@ -69,7 +69,7 @@ Cuento con experiencia en diferentes giros como:
 
 ## 💼 Proyecto Demo
 
-El siguiente es una lista de instrucciones e información adicional para descargar un proyecto realizado con Selenium WD, Java y Cumber para que puedas ver parte de mi trabajo como automatizador de pruebas, es sencillo, pero considero suficiente para despejar dudas y tener una idea con lo que te puedo apoyar en tu empresa o capacitación.
+El siguiente es una lista de instrucciones e información adicional para descargar un proyecto realizado con Selenium WD, Java y Cucumber para que puedas ver parte de mi trabajo como automatizador de pruebas, es sencillo, pero considero suficiente para despejar dudas y tener una idea con lo que te puedo apoyar en tu empresa o capacitación.
 
 Instrucciones:
 
