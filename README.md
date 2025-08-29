@@ -6,34 +6,28 @@ Me presento, mi nombre es Jesús Acosta, un tipo con 20 años de experiencia en 
 La calidad me encanta al igual que programar y al encontrarme con la automatización de pruebas hace ya algunos ayeres pude hacer las dos cosas que me gustan al mismo tiempo.
 
 
-
-
 ## 🏫Educación
 
+- **Egresado de la Licenciatura en sistemas computacionales por la Universidad de Occidente. 
+- **Egresado de Ingeniería industrial por la Universidad del Golfo de México.
 
-
-
-
-- **`features`**: Archivos `.feature` con los escenarios de prueba.
-- **`stepsDefinitions`**: Clases con los Step Definitions.
-- **`runners`**: Clases para ejecutar los tests con Cucumber y TestNG/JUnit.
-- **`utils`**: Métodos auxiliares como capturas de pantalla, esperas, etc.
-- **`pom.xml`**: Archivo de Maven con dependencias y plugins.
 
 ---
 
-## ⚙️ Requisitos
+## 🚀 Certificaciones 
 
-- Java JDK 24 o superior(En caso de cambiarlo actualizar en el POM.xml en la etiqueta "release"
-  <img width="403" height="160" alt="image" src="https://github.com/user-attachments/assets/78bc8bf8-d6b3-4110-a624-bc2ab7c70fd6" />
-
-- Maven 3.6 o superior
-- Navegador Chrome (o el que uses en los scripts)
-- Eclipse / IntelliJ / VSCode (opcional)
+- ISTQB certified tester 
+- Scrum Fundations By Certiproft
+- Remote Work and Virtual Colaborarion By Certiproft
+- Postman Api By Postman Academy
 
 ---
 
-## 🛠️ Configuración del proyecto
+## 🛠️ Tecnologias y Herramientas
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/3caa62fe-4e1e-458f-87fa-66854dfefefb" /><img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/79d148fa-c932-4d72-8747-ed9bf8c58ecc" />
+
+
 
 1. Clona el repositorio:
 
