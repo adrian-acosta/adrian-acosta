@@ -29,7 +29,7 @@ La calidad me encanta al igual que programar y al encontrarme con la automatizac
 <img width="314" height="161" alt="image" src="https://github.com/user-attachments/assets/c0c3ae8a-6a14-47c9-b46a-03a127ecf922" /><img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/4ca777b6-cfa1-451d-bea9-2e1218f1f029" />
 
 
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/06fedc87-88c0-4964-901b-6a7ff64e5525" /><img width="515" height="200" alt="image" src="https://github.com/user-attachments/assets/10181bb3-0524-4115-bd17-517211021688" /><img width="331" height="152" alt="image" src="https://github.com/user-attachments/assets/ef45880b-44f1-4043-9ecc-a11f878192bf" />
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/06fedc87-88c0-4964-901b-6a7ff64e5525" /><img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/068f67dc-7534-41bf-9369-064426600385" /><img width="331" height="152" alt="image" src="https://github.com/user-attachments/assets/ef45880b-44f1-4043-9ecc-a11f878192bf" />
 
 
 
