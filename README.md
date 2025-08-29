@@ -19,7 +19,7 @@ Cuento con experiencia en diferentes giros como:
 - ✅ Autotransporte (Grupo Estrella Blanca, Pailot)
 - ✅ Retail         (Coppel)
 - ✅ E-Commerce     (coppel.com)
-- ✅ Agroindustria  (Primuslabs 🇺🇲)
+- ✅ Agroindustria  (Primuslabs 🇺🇸)
 - ✅ Automotriz     (Incluit 🇦🇷) 
 
 ---
