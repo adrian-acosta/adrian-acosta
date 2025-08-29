@@ -27,10 +27,10 @@ La calidad me encanta al igual que programar y al encontrarme con la automatizac
 
 
 <img width="314" height="161" alt="image" src="https://github.com/user-attachments/assets/c0c3ae8a-6a14-47c9-b46a-03a127ecf922" /><img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/4ca777b6-cfa1-451d-bea9-2e1218f1f029" />
-
+---
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/06fedc87-88c0-4964-901b-6a7ff64e5525" /><img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/068f67dc-7534-41bf-9369-064426600385" /><img width="331" height="152" alt="image" src="https://github.com/user-attachments/assets/ef45880b-44f1-4043-9ecc-a11f878192bf" /><img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/836d5093-74f1-4add-9fc5-b19f9d7e420f" /><img width="310" height="163" alt="image" src="https://github.com/user-attachments/assets/cb680958-1354-4836-831a-b5c2a2bf75c2" />
-
+---
 
 <img width="232" height="80" alt="mantisbt" src="https://github.com/user-attachments/assets/080fae96-4b0d-46ac-ba1b-222ed9f6aa17" /><img width="299" height="115" alt="image" src="https://github.com/user-attachments/assets/ce96b5c1-c7c2-4ae7-8029-1f04b669f400" />
 
@@ -39,14 +39,14 @@ La calidad me encanta al igual que programar y al encontrarme con la automatizac
 
 <img width="341" height="148" alt="selenium" src="https://github.com/user-attachments/assets/feee064c-7d47-413f-9074-59f76ff8e7b7" />
 <img width="342" height="147" alt="uft" src="https://github.com/user-attachments/assets/286fc52f-49da-4f33-98ce-e2d047214aad" />
+---
 
-
-<img width="300" height="128" alt="image" src="https://github.com/user-attachments/assets/c0a6b7d2-bd8e-441d-9feb-e64d4b722a38" /><img width="310" height="163" alt="image" src="https://github.com/user-attachments/assets/4bd5660e-0831-4a79-a5cd-69ade398351e" />
-
+<img width="300" height="128" alt="image" src="https://github.com/user-attachments/assets/c0a6b7d2-bd8e-441d-9feb-e64d4b722a38" /><img width="378" height="133" alt="image" src="https://github.com/user-attachments/assets/4abb4936-7b48-465d-89ec-10ea93186e97" />
+---
 
 
 <img width="371" height="136" alt="sqlserver" src="https://github.com/user-attachments/assets/8f4308f0-820a-4956-9b8b-896ce59d9c32" /><img width="313" height="161" alt="image" src="https://github.com/user-attachments/assets/a81526fa-e111-4e20-84de-5374e30ceac5" /><img width="332" height="152" alt="image" src="https://github.com/user-attachments/assets/394bd491-5df7-4b89-9f3d-479d38286c22" />
-
+---
 
 <img width="273" height="184" alt="image" src="https://github.com/user-attachments/assets/bdc84db2-3196-4322-b67d-7f1136015058" /><img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/5fd467ff-1d35-458c-b7f6-ab473963e4bd" /><img width="447" height="113" alt="image" src="https://github.com/user-attachments/assets/ebb99a80-5619-4e43-b11b-9f4ccc43492f" />
 
