@@ -14,13 +14,13 @@ La calidad me encanta al igual que programar y al encontrarme con la automatizac
 ## 🕰️ Experiencia
 
 Cuento con experiencia en diferentes giros como:
-- ✅ Bancos         (Bancoppel, Bankaool, Banco Popular Dominicano )
-- ✅ Finaciero      (Grupo Bursatil Mexicano 🇲🇽, Crediverso )
+- ✅ Bancos         (Bancoppel, Bankaool, Banco Popular Dominicano)
+- ✅ Finaciero      (Grupo Bursatil Mexicano 🇲🇽, Crediverso)
 - ✅ Autotransporte (Grupo Estrella Blanca, Pailot)
 - ✅ Retail         (Coppel)
 - ✅ E-Commerce     (coppel.com)
-- ✅ Agroindustria  (Primuslabs 🇺🇸)
-- ✅ Automotriz     (Incluit 🇦🇷) 
+- ✅ Agroindustria  (Primuslabs)
+- ✅ Automotriz     (Incluit) 
 
 ---
 
@@ -67,17 +67,19 @@ Cuento con experiencia en diferentes giros como:
 ---
 
 
+## 💼 Proyecto Demo
 
+El siguiente es una lista de instrucciones e información adicional para descargar un proyecto realizado con Selenium WD, Java y Cumber para que puedas ver parte de mi trabajo como automatizador de pruebas, es sencillo, pero considero suficiente para despejar dudas y tener una idea con lo que te puedo apoyar en tu empresa o capacitación.
 
-
+Instrucciones:
 
 1. Clona el repositorio:
 
    git clone https://github.com/adrian-acosta/ML2025.git
 
-2. Abre el proyecto en tu IDE como Eclipse / IntelliJ.
+2. Abre el proyecto en tu IDE como Eclipse / IntelliJ. (Yo utilice eclipse.)
 
-3.-Asegúrate de tener el driver de Chrome actualizado y disponible.(No se necesita instalar ningún driver para los navedadores ya que estan administrador por el Web driver manager de boni garcia.
+3.-Asegúrate de tener el driver Chrome actualizado y disponible...Naaa, es broma, no se necesita instalar ningún driver para los navedadores ya que estan administrados por el Web driver manager de boni garcia.
 
 <img width="614" height="181" alt="image" src="https://github.com/user-attachments/assets/f421ff68-221f-4edf-8630-df43055038d4" />
 
