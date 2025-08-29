@@ -5,7 +5,7 @@
 Me presento, mi nombre es Jesús Acosta, un tipo con 20 años de experiencia en el mundo de TI,. Cuento con 3 años como desarrollador y lo demas como QA tanto manual como automatizado.
 La calidad me encanta al igual que programar y al encontrarme con la automatización de pruebas hace ya algunos ayeres pude hacer las dos cosas que me gustan al mismo tiempo.
 
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/b51495c1-c094-4a54-bd80-228fce6415a6" />
+                            <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/b51495c1-c094-4a54-bd80-228fce6415a6" />
 
 
 
