@@ -5,15 +5,17 @@
 Me presento, mi nombre es Jesús Acosta, un tipo con 20 años de experiencia en el mundo de TI,. Cuento con 3 años como desarrollador y lo demas como QA tanto manual como automatizado 🤖.
 La calidad me encanta al igual que programar y al encontrarme con la automatización de pruebas hace ya algunos ayeres pude hacer las dos cosas que me gustan al mismo tiempo.
 
+Mi perfil en linkedin: https://www.linkedin.com/in/jacostamx/
 
 ## 🏫Educación
 
 - **Egresado de la Licenciatura en sistemas computacionales por la Universidad de Occidente. 
 - **Egresado de Ingeniería industrial por la Universidad del Golfo de México.
 
-  ## 🏫Idiomas
-  - Español nativo.
-  - Inglés A2(learning yet)
+## 📎Idiomas
+- Español nativo.
+- Inglés A2(learning yet)
+  
 
 ## 🕰️ Experiencia
 
@@ -25,6 +27,13 @@ Cuento con experiencia en diferentes giros como:
 - ✅ E-Commerce     (coppel.com)
 - ✅ Agroindustria  (Primuslabs)
 - ✅ Automotriz     (Incluit) 
+
+Logros generales:
+- ✅ Disminución de tiempos de ejecución de pruebas manuales en un 80% estimado con scripts automatizados.
+- ✅ Creación de frameworks de pruebas automatizadas para soporte de las tareas repetitivas de automatización con Selenium WD aumentando la reusabilidad de código de Selenium en un 90%.
+- ✅ Mejora en la documentación de pruebas agregando una mejor trazabilidad entre componentes de pruebas y requisitos.
+- ✅ Disminución de defectos en UAT y producción mediante buenas practicas de QA.
+
 
 ---
 
