@@ -15,8 +15,7 @@ La calidad me encanta al igual que programar y al encontrarme con la automatizac
 
 Cuento con experiencia en diferentes giros como:
 -✅ Bancos         (Bancoppel, Bankaool, Banco Popular Dominicano )
--✅ Finaciero      (Grupo Bursatil Mexicano 🇲🇽, Crediverso <img width="20" height="11" alt="us" src="https://github.com/user-attachments/assets/8e91e765-3c12-408b-a614-4c11c7ffe55b" />
- )
+-✅ Finaciero      (Grupo Bursatil Mexicano 🇲🇽, Crediverso )
 -✅ Autotransporte (Grupo Estrella Blanca, Pailot)
 -✅ Retail         (Coppel)
 -✅ E-Commerce     (coppel.com)
