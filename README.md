@@ -5,15 +5,12 @@
 Me presento, mi nombre es Jesús Acosta, un tipo con 20 años de experiencia en el mundo de TI,. Cuento con 3 años como desarrollador y lo demas como QA tanto manual como automatizado.
 La calidad me encanta al igual que programar y al encontrarme con la automatización de pruebas hace ya algunos ayeres pude hacer las dos cosas que me gustan al mismo tiempo.
 
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/4fe19818-cb5c-4b9c-8354-45b107c1ef6a" />
-
-## <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/8be80b9a-a66d-4f85-b7ca-57196da12eac" /> Educación
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/b51495c1-c094-4a54-bd80-228fce6415a6" />
 
 
 
 ## 📁 
 
-<img width="335" height="543" alt="image" src="https://github.com/user-attachments/assets/87ee3d58-8318-41c8-bb3d-7f7eed51df9a" />
 
 
 
