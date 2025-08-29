@@ -44,6 +44,9 @@ La calidad me encanta al igual que programar y al encontrarme con la automatizac
 <img width="371" height="136" alt="sqlserver" src="https://github.com/user-attachments/assets/8f4308f0-820a-4956-9b8b-896ce59d9c32" /><img width="313" height="161" alt="image" src="https://github.com/user-attachments/assets/a81526fa-e111-4e20-84de-5374e30ceac5" /><img width="332" height="152" alt="image" src="https://github.com/user-attachments/assets/394bd491-5df7-4b89-9f3d-479d38286c22" />
 
 
+<img width="273" height="184" alt="image" src="https://github.com/user-attachments/assets/bdc84db2-3196-4322-b67d-7f1136015058" /><img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/5fd467ff-1d35-458c-b7f6-ab473963e4bd" /><img width="403" height="125" alt="image" src="https://github.com/user-attachments/assets/81424506-ddf9-4634-8414-c73bad9f4d10" />
+
+
 
 
 
