@@ -41,10 +41,15 @@ La calidad me encanta al igual que programar y al encontrarme con la automatizac
 <img width="342" height="147" alt="uft" src="https://github.com/user-attachments/assets/286fc52f-49da-4f33-98ce-e2d047214aad" />
 
 
+<img width="300" height="128" alt="image" src="https://github.com/user-attachments/assets/c0a6b7d2-bd8e-441d-9feb-e64d4b722a38" /><img width="310" height="163" alt="image" src="https://github.com/user-attachments/assets/4bd5660e-0831-4a79-a5cd-69ade398351e" />
+
+
+
 <img width="371" height="136" alt="sqlserver" src="https://github.com/user-attachments/assets/8f4308f0-820a-4956-9b8b-896ce59d9c32" /><img width="313" height="161" alt="image" src="https://github.com/user-attachments/assets/a81526fa-e111-4e20-84de-5374e30ceac5" /><img width="332" height="152" alt="image" src="https://github.com/user-attachments/assets/394bd491-5df7-4b89-9f3d-479d38286c22" />
 
 
-<img width="273" height="184" alt="image" src="https://github.com/user-attachments/assets/bdc84db2-3196-4322-b67d-7f1136015058" /><img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/5fd467ff-1d35-458c-b7f6-ab473963e4bd" /><img width="403" height="125" alt="image" src="https://github.com/user-attachments/assets/81424506-ddf9-4634-8414-c73bad9f4d10" />
+<img width="273" height="184" alt="image" src="https://github.com/user-attachments/assets/bdc84db2-3196-4322-b67d-7f1136015058" /><img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/5fd467ff-1d35-458c-b7f6-ab473963e4bd" /><img width="447" height="113" alt="image" src="https://github.com/user-attachments/assets/ebb99a80-5619-4e43-b11b-9f4ccc43492f" />
+
 
 
 
