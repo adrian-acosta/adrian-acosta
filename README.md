@@ -83,7 +83,7 @@ Instrucciones:
 
 <img width="614" height="181" alt="image" src="https://github.com/user-attachments/assets/f421ff68-221f-4edf-8630-df43055038d4" />
 
-En caso de necesitar ejecutarlo con otro browser hay que actualizar en el archivo config.properties(Solo esta preparado para Choreme y Firefox, para que soporte otros hay que agregar en el código en la clase **WebDriverManager**
+En caso de necesitar ejecutarlo con otro browser hay que actualizar en el archivo config.properties(Solo esta preparado para Chrome y Firefox, para que soporte otros hay que agregar en el código en la clase **WebDriverManager**
 
 <img width="491" height="210" alt="image" src="https://github.com/user-attachments/assets/829dc266-f02f-42f8-9f26-52fc4b8ddde5" />
 
