@@ -28,11 +28,11 @@ Cuento con experiencia en diferentes giros como:
 - ✅ Agroindustria  (Primuslabs)
 - ✅ Automotriz     (Incluit) 
 
-Logros generales:
-- ✅ Disminución de tiempos de ejecución de pruebas manuales en un 80% estimado con scripts automatizados.
-- ✅ Creación de frameworks de pruebas automatizadas para soporte de las tareas repetitivas de automatización con Selenium WD aumentando la reusabilidad de código de Selenium en un 90%.
-- ✅ Mejora en la documentación de pruebas agregando una mejor trazabilidad entre componentes de pruebas y requisitos.
-- ✅ Disminución de defectos en UAT y producción mediante buenas practicas de QA.
+💪Logros generales:
+- 📈 Disminución de tiempos de ejecución de pruebas manuales en un 80% estimado con scripts automatizados.
+- 📈 Creación de frameworks de pruebas automatizadas para soporte de las tareas repetitivas de automatización con Selenium WD aumentando la reusabilidad de código de Selenium en un 90%.
+- 📈 Mejora en la documentación de pruebas agregando una mejor trazabilidad entre componentes de pruebas y requisitos.
+- 📈 Disminución de defectos en UAT y producción mediante buenas practicas de QA.
 
 
 ---
