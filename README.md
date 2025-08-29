@@ -14,17 +14,12 @@ La calidad me encanta al igual que programar y al encontrarme con la automatizac
 ## 🕰️ Experiencia
 
 Cuento con experiencia en diferentes giros como:
--✅ Bancos         (Bancoppel <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/8b548f40-7a69-4442-bca7-583827203e85" />
- Bankaool <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/fab52d3d-1817-4192-a354-44ff00f0bec0" />
- Banco Popular Dominicano 🇩🇴)
--✅ Finaciero      (Grupo Bursatil Mexicano 🇲🇽, Crediverso 🇺🇲 )
--✅ Autotransporte (Grupo Estrella Blanca <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9dbd5158-d841-4af7-92d5-6b80a0f15f56" />
- Pailot <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c5de237a-7a8f-4926-8945-5a5d6ba73239" />
-
--✅ Retail         (Coppel <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/66540be1-523d-4b7f-89dd-e738f5d9aff1" />
-
--✅ E-Commerce     (coppel.com <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d1b21c1a-78de-4dc4-a36a-a312a83d985a" />
-
+-✅ Bancos         (Bancoppel, Bankaool, Banco Popular Dominicano )
+-✅ Finaciero      (Grupo Bursatil Mexicano 🇲🇽, Crediverso <img width="20" height="11" alt="us" src="https://github.com/user-attachments/assets/8e91e765-3c12-408b-a614-4c11c7ffe55b" />
+ )
+-✅ Autotransporte (Grupo Estrella Blanca, Pailot)
+-✅ Retail         (Coppel)
+-✅ E-Commerce     (coppel.com)
 -✅ Agroindustria  (Primuslabs 🇺🇲)
 -✅ Automotriz     (Incluit 🇦🇷) 
 
