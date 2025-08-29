@@ -21,7 +21,7 @@ Mi perfil en linkedin: https://www.linkedin.com/in/jacostamx/
 
 Cuento con experiencia en diferentes giros como:
 - ✅ Bancos         (Bancoppel, Bankaool, Banco Popular Dominicano)
-- ✅ Financiero      (Grupo Bursatil Mexicano 🇲🇽, Crediverso)
+- ✅ Financiero      (Grupo Bursatil Mexicano, Crediverso)
 - ✅ Autotransporte (Grupo Estrella Blanca, Pailot)
 - ✅ Retail         (Coppel)
 - ✅ E-Commerce     (coppel.com)
