@@ -32,7 +32,8 @@ La calidad me encanta al igual que programar y al encontrarme con la automatizac
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/06fedc87-88c0-4964-901b-6a7ff64e5525" /><img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/068f67dc-7534-41bf-9369-064426600385" /><img width="331" height="152" alt="image" src="https://github.com/user-attachments/assets/ef45880b-44f1-4043-9ecc-a11f878192bf" /><img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/836d5093-74f1-4add-9fc5-b19f9d7e420f" /><img width="310" height="163" alt="image" src="https://github.com/user-attachments/assets/cb680958-1354-4836-831a-b5c2a2bf75c2" />
 
 
-<img width="232" height="80" alt="mantisbt" src="https://github.com/user-attachments/assets/080fae96-4b0d-46ac-ba1b-222ed9f6aa17" /><img width="369" height="137" alt="image" src="https://github.com/user-attachments/assets/7c38beb0-f843-4f39-879f-a671fa8f9680" />
+<img width="232" height="80" alt="mantisbt" src="https://github.com/user-attachments/assets/080fae96-4b0d-46ac-ba1b-222ed9f6aa17" /><img width="299" height="115" alt="image" src="https://github.com/user-attachments/assets/ce96b5c1-c7c2-4ae7-8029-1f04b669f400" />
+
 
 
 <img width="341" height="148" alt="selenium" src="https://github.com/user-attachments/assets/feee064c-7d47-413f-9074-59f76ff8e7b7" />
