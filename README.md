@@ -35,7 +35,8 @@ La calidad me encanta al igual que programar y al encontrarme con la automatizac
 <img width="232" height="80" alt="image" src="https://github.com/user-attachments/assets/080fae96-4b0d-46ac-ba1b-222ed9f6aa17" /><img width="362" height="139" alt="image" src="https://github.com/user-attachments/assets/5a79ffa7-dc3d-48bc-bad1-452742d83e5b" />
 
 
-<img width="611" height="246" alt="image" src="https://github.com/user-attachments/assets/5dc8f48a-6f72-43a7-9f87-9a3dfd9ebcba" /><img width="342" height="147" alt="image" src="https://github.com/user-attachments/assets/286fc52f-49da-4f33-98ce-e2d047214aad" />
+<img width="341" height="148" alt="selenium" src="https://github.com/user-attachments/assets/feee064c-7d47-413f-9074-59f76ff8e7b7" />
+<img width="342" height="147" alt="uft" src="https://github.com/user-attachments/assets/286fc52f-49da-4f33-98ce-e2d047214aad" />
 
 
 
