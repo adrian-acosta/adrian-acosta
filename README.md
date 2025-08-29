@@ -9,8 +9,8 @@ Mi perfil en linkedin: https://www.linkedin.com/in/jacostamx/
 
 ## 🏫Educación
 
-- **Egresado de la Licenciatura en sistemas computacionales por la Universidad de Occidente. 
-- **Egresado de Ingeniería industrial por la Universidad del Golfo de México.
+- Egresado de la Licenciatura en sistemas computacionales por la Universidad de Occidente. 
+- Egresado de Ingeniería industrial por la Universidad del Golfo de México.
 
 ## 📎Idiomas
 - Español nativo.
