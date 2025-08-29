@@ -25,8 +25,9 @@ La calidad me encanta al igual que programar y al encontrarme con la automatizac
 
 ## 🛠️ Tecnologias y Herramientas
 
-<img width="314" height="161" alt="image" src="https://github.com/user-attachments/assets/c0c3ae8a-6a14-47c9-b46a-03a127ecf922" />
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/79d148fa-c932-4d72-8747-ed9bf8c58ecc" />
+<img width="314" height="161" alt="image" src="https://github.com/user-attachments/assets/c0c3ae8a-6a14-47c9-b46a-03a127ecf922" /><img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/4ca777b6-cfa1-451d-bea9-2e1218f1f029" />
+
+
 
 
 
