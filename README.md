@@ -41,7 +41,7 @@ La calidad me encanta al igual que programar y al encontrarme con la automatizac
 <img width="342" height="147" alt="uft" src="https://github.com/user-attachments/assets/286fc52f-49da-4f33-98ce-e2d047214aad" />
 
 
-<img width="371" height="136" alt="sqlserver" src="https://github.com/user-attachments/assets/8f4308f0-820a-4956-9b8b-896ce59d9c32" /><img width="313" height="161" alt="image" src="https://github.com/user-attachments/assets/a81526fa-e111-4e20-84de-5374e30ceac5" /><img width="314" height="160" alt="image" src="https://github.com/user-attachments/assets/e05c0a72-461c-475b-a775-1669d0dc8256" /><img width="332" height="152" alt="image" src="https://github.com/user-attachments/assets/394bd491-5df7-4b89-9f3d-479d38286c22" />
+<img width="371" height="136" alt="sqlserver" src="https://github.com/user-attachments/assets/8f4308f0-820a-4956-9b8b-896ce59d9c32" /><img width="313" height="161" alt="image" src="https://github.com/user-attachments/assets/a81526fa-e111-4e20-84de-5374e30ceac5" /><img width="332" height="152" alt="image" src="https://github.com/user-attachments/assets/394bd491-5df7-4b89-9f3d-479d38286c22" />
 
 
 
