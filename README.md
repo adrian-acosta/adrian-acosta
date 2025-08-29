@@ -14,13 +14,13 @@ La calidad me encanta al igual que programar y al encontrarme con la automatizac
 ## 🕰️ Experiencia
 
 Cuento con experiencia en diferentes giros como:
--✅ Bancos         (Bancoppel, Bankaool, Banco Popular Dominicano )
--✅ Finaciero      (Grupo Bursatil Mexicano 🇲🇽, Crediverso )
--✅ Autotransporte (Grupo Estrella Blanca, Pailot)
--✅ Retail         (Coppel)
--✅ E-Commerce     (coppel.com)
--✅ Agroindustria  (Primuslabs 🇺🇲)
--✅ Automotriz     (Incluit 🇦🇷) 
+- ✅ Bancos         (Bancoppel, Bankaool, Banco Popular Dominicano )
+- ✅ Finaciero      (Grupo Bursatil Mexicano 🇲🇽, Crediverso )
+- ✅ Autotransporte (Grupo Estrella Blanca, Pailot)
+- ✅ Retail         (Coppel)
+- ✅ E-Commerce     (coppel.com)
+- ✅ Agroindustria  (Primuslabs 🇺🇲)
+- ✅ Automotriz     (Incluit 🇦🇷) 
 
 ---
 
